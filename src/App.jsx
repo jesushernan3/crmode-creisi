@@ -4,8 +4,10 @@ function App() {
   return (
     <>
       <div>
-        <h1 class="text-3xl font-bold underline">Creisi Crmode Bitches</h1>
-        <p className="bg-amber-300">don forget</p>
+        <h1 class="text-3xl font-bold underline text-violet-300">
+          Creisi Crmode Bitches
+        </h1>
+        <p className="bg-amber-300 font-robertmedium">don forget</p>
       </div>
     </>
   );
